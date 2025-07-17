@@ -66,7 +66,7 @@
 <summary><b>💻 Model Training</b></summary>
 
 
-Reproduce paper results with `scripts-v0`:
+Reproduce paper results with `scripts`:
 ```bash
 bash scripts/opt-1.3b/train.generalist.sh
 ```
